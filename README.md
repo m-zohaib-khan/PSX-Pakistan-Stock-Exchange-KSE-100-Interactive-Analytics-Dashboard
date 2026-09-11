@@ -1,0 +1,2 @@
+# PSX-Pakistan-Stock-Exchange-KSE-100-Interactive-Analytics-Dashboard
+Engineered a 3-tier Power BI solution analyzing PSX KSE-100 trends and stock performance. Built 50+ DAX measures—including 30/90-day volume moving averages, volatility risk tiers, and return benchmarking against a 21% risk-free rate—enabling analysts to spot high-alpha stocks, track institutional buying, and mitigate downside risk.
